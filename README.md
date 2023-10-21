@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anshpoonia
-- 👀 I’m interested in making all the things that comes to my mind, and I really like to have philosophical talks.
+- 👀 I’m interested in working on machine learning projects and just learning in general.
 - 💞️ I usually like to work alone on the projects but I am happy to colaborate with you if you want😁😁
 
 <!---
